@@ -4123,10 +4123,10 @@ node-addon-api@^4.3.0:
   resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/node-addon-api/-/node-addon-api-4.3.0.tgz"
   integrity sha1-UqGgtHUZPgko6Y4EJqDRJUeCt38=
 
-node-forge@^1.3.1:
-  version "1.3.1"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/node-forge/-/node-forge-1.3.1.tgz"
-  integrity sha1-vo2iryQ7JBfV9kancGY6krfp3tM=
+node-forge@^1.3.2:
+  version "1.3.2"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/node-forge/-/node-forge-1.3.2.tgz#d0d2659a26eef778bf84d73e7f55c08144ee7750"
+  integrity sha1-0NJlmibu93i/hNc+f1XAgUTud1A=
 
 node-html-markdown@^1.3.0:
   version "1.3.0"
